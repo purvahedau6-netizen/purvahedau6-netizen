@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Purva Hedau
 
-<!--
-**purvahedau6-netizen/purvahedau6-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student  
+💻 C++ | DSA  
+🚀 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+## 🧠 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Structures & Algorithms
+- C++
+- Problem Solving
+- Git & GitHub
+
+## 📚 DSA Progress
+
+Currently solving LeetCode problems pattern-wise and building strong problem-solving fundamentals.
+
+## 🎯 Goal
+
+Preparing for a Summer 2027 Software Engineering Internship.
+
+## 🛠️ Skills
+
+- C++
+- Data Structures & Algorithms
+- Git & GitHub
+
+---
+
+⭐ Thanks for visiting my profile!
